@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Facultate\HelloWorld\main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HelloWorld.vcxproj -> D:\Facultate\HelloWorld\x64\Debug\HelloWorld.exe
